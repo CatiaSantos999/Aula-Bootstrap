@@ -1,0 +1,30 @@
+body{
+    font: 20px Arial, sans-serif;
+}
+
+
+.navbar {
+    background-color: #DAF7A6;
+}
+.quem-somos {
+    background-color: cadetblue;
+    color: antiquewhite;
+
+}
+.margin {
+    padding-top: 10px;
+    padding-bottom: 50px;
+}
+.parceiros {
+    background-color: rgba(63, 83, 168, 0.363);
+}
+.bg-footer {
+    background-color: rgb(5, 178, 221);
+    font-style: italic;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    color: #DAF7A6;
+
+}
+
